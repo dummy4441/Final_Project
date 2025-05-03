@@ -11,10 +11,10 @@ The main project script is Final_project_notebook, and is very appropriately nam
 # Other Information
 I don’t have much else to say, but here are some links to the libraries that I used that will provide way more information then I can:
 
-[Pandas] (https://pandas.pydata.org/) - This is the tidyverse of data manipulation in Python. I’m sure that I didn’t even scratch the surface of what I can do with this library in these scripts.
-[Matplotlib] (https://matplotlib.org/) - I really didn’t go crazy with the plots I made, but this is the man plotting library in Python.
-[SportsDataverse] (https://www.sportsdataverse.org/) - This is a huge public repository of sports data, which I think that you, Dr. Drinnen should check out.
-[Pybaseball] (https://github.com/jldbc/pybaseball) - I couldn’t really get this to work, but it’s worth checking out.
+[Pandas](https://pandas.pydata.org/) - This is the tidyverse of data manipulation in Python. I’m sure that I didn’t even scratch the surface of what I can do with this library in these scripts.
+[Matplotlib](https://matplotlib.org/) - I really didn’t go crazy with the plots I made, but this is the man plotting library in Python.
+[SportsDataverse](https://www.sportsdataverse.org/) - This is a huge public repository of sports data, which I think that you, Dr. Drinnen should check out.
+[Pybaseball](https://github.com/jldbc/pybaseball) - I couldn’t really get this to work, but it’s worth checking out.
 
 # Conclusion
 Like I said in the end of the main script, I can say that without a doubt, Python is the worst querying language I have ever had to work with. However, It is Python. What I mean by this is that other languages are more suited towards specifically querying, while Python, not being tailored for it, Python can emulate a lot of things that those languages are built for. Working on this project has strengthened my skills with Python, which have dulled over semesters of working with Java. I have appreciated attempting to use Python as a querying language because of my affinity for RStudio and SQL. That being said, I personally cannot recommend its implementations for questions that Dr. Drinnen may ask.
